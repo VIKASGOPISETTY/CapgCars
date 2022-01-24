@@ -3,6 +3,8 @@ using CAR_RENTAL_SERVICE.Infrastructure;
 using CAR_RENTAL_SERVICE.Models;
 
 var builder1 = WebApplication.CreateBuilder(args);
+//gsghs
+//created vikasg branch
 
 builder1.Services.AddDbContext<CAR_RENTAL_SERVICE.Infrastructure.CarRentalContext>
 (

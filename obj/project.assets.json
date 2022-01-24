@@ -9549,19 +9549,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chetan\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CAPG training\\.net\\CarRentalService\\Car-Rental_service.csproj",
+      "projectUniqueName": "D:\\first\\FinalCapCar\\Car-Rental_service.csproj",
       "projectName": "Car-Rental_service",
-      "projectPath": "D:\\CAPG training\\.net\\CarRentalService\\Car-Rental_service.csproj",
-      "packagesPath": "C:\\Users\\Chetan\\.nuget\\packages\\",
-      "outputPath": "D:\\CAPG training\\.net\\CarRentalService\\obj\\",
+      "projectPath": "D:\\first\\FinalCapCar\\Car-Rental_service.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\first\\FinalCapCar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Chetan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
