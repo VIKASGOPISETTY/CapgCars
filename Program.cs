@@ -12,7 +12,7 @@ builder1.Services.AddDbContext<CAR_RENTAL_SERVICE.Infrastructure.CarRentalContex
             connectionString:"server=(local);database=CarRentalServiceDB;integrated security=sspi"
         )
 );
-
+  
 
 var builder = WebApplication.CreateBuilder(args);
 
